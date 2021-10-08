@@ -1,0 +1,25 @@
+.navbar-container {
+    background-color: #2d3436;
+    color: #dfe6e9;
+}
+.item {
+    list-style: none;
+    text-decoration: none;
+    color: #dfe6e9;
+    margin-right: 30px;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.6s linear;
+}
+.item:hover {
+    color: #f39c12;
+}
+.brand-name {
+    cursor: pointer;
+    color: #dfe6e9;
+    transition: 0.6s linear;
+}
+.brand-name:hover {
+    color: #f39c12;
+}
